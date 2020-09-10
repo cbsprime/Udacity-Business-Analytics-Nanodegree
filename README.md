@@ -1,4 +1,4 @@
-# Udacity-Business-Analytics-Nanodegree
+# Udacity Business Analytics Nanodegree
 
 Completed Udacity's Business Analytics Nanodegree. 
 
